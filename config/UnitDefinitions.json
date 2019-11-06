@@ -1,0 +1,29 @@
+{
+   "__type":"Units",
+   "units":[
+      {
+         "Name":"Tank",
+         "Health":3,
+         "Damage":1,
+         "Speed": 1,
+         "Control":1,
+         "Cost":1
+      },
+      {
+         "Name":"Controller",
+         "Health":2,
+         "Damage":1,
+         "Speed":1,
+         "Control":2,
+         "Cost":1
+      },
+      {
+         "Name":"Striker",
+         "Health":1,
+         "Damage":2,
+         "Speed":2,
+         "Control":1,
+         "Cost":1
+      }
+  ]
+}

@@ -1,0 +1,5 @@
+setup.py
+everglades_server.egg-info/PKG-INFO
+everglades_server.egg-info/SOURCES.txt
+everglades_server.egg-info/dependency_links.txt
+everglades_server.egg-info/top_level.txt
